@@ -2,6 +2,6 @@
 
 ## RPG Character Design
 
-![lab03-1](https://github.com/261200-2566-2/lab03-meowmeow/assets/110964402/dfeaf1d0-865e-4899-a3ea-d0dcf6e6908c)
+![lab03-1](https://github.com/261200-2566-2/lab03-meowmeow/assets/110964402/a457c07f-f58e-41e5-8915-81d10631e5f3)
 
-![lab03-2](https://github.com/261200-2566-2/lab03-meowmeow/assets/110964402/aeee3e76-bbf4-4bd3-8097-86d018de0762)
+![lab03-2](https://github.com/261200-2566-2/lab03-meowmeow/assets/110964402/1b16b5d9-3243-4915-b33b-a6a05b72fd7c)
