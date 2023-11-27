@@ -118,7 +118,7 @@ public class Character {
         calculateStats();
     }
 
-    protected void getAttacked(double damage) {
+    private void getAttacked(double damage) {
         if (shield != null) {
             damage -= shield.getDefense();
         }
